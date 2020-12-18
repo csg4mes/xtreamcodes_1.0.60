@@ -1,17 +1,3 @@
-# ALL 
-
-wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/1.sh
-
-chmod 755 1.sh
-
-./1.sh
-
-
-wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/2.sh
-
-chmod 755 2.sh
-
-./2.sh
 
 # 2018
 
